@@ -1,6 +1,6 @@
 # TTGO-LORA-Example
 
-![image](https://github.com/LilyGO/TTGO-LORA-V1/blob/master/image/Lorav1.jpg)
+![image](https://github.com/LilyGO/TTGO-LORA-V1/blob/master/image/image1.jpg)
 
 This example will demonstrate the low-power routines of ds3231 with esp32 and lora
 
